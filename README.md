@@ -1,28 +1,30 @@
 <h1>Activate Windows 10 without any software</h1>
 
 
+
 <h2>The list of Windows 10 Volume license keys.</h2>
+
 
 
 <b> Home:</b>                  TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
  <br>
-Home N:                 3KHY7-WNT83-DGQKR-F7HPR-844BM
+<b>Home N:</b>                 3KHY7-WNT83-DGQKR-F7HPR-844BM
 <br>
-Home Single Language:   7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+<b>Home Single Language:</b>   7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
 <br>
-Home Country Specific:  PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+<b>Home Country Specific:</b>  PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 <br>
-Professional:           W269N-WFGWX-YVC9B-4J6C9-T83GX
+<b>Professional:</b>          W269N-WFGWX-YVC9B-4J6C9-T83GX
 <br>
-Professional N:         MH37W-N47XK-V7XM9-C7227-GCQG9
+<b>Professional N:</b>        MH37W-N47XK-V7XM9-C7227-GCQG9
 <br>
-Education:              NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+<b>Education:</b>             NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 <br>
-Education N:            2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+<b>Education N:</b>            2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 <br>
-Enterprise:             NPPR9-FWDCX-D2C8J-H872K-2YT43
+<b>Enterprise:</b>             NPPR9-FWDCX-D2C8J-H872K-2YT43
 <br>
-Enterprise N:           DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+<b>Enterprise N:</b>           DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 <br>
 
 

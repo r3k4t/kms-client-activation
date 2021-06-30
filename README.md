@@ -1,6 +1,6 @@
 <h1>Activate Windows 10 without any software</h1>
 
-![activate](https://user-images.githubusercontent.com/69615463/123889539-86c00980-d977-11eb-8edf-3cfc1f90712c.png)
+
 
 
 <h2>The list of Windows 10 Volume license keys.</h2>

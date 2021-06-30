@@ -4,7 +4,7 @@
 <h2>The list of Windows 10 Volume license keys.</h2>
 
 
- Home:                  TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+<b> Home:</b>                  TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
  <br>
 Home N:                 3KHY7-WNT83-DGQKR-F7HPR-844BM
 <br>

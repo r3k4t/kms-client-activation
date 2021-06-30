@@ -41,3 +41,6 @@
 + slmgr  /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
 + slmgr  /skms  kms8.msguides.com
 + slmgr /ato
+
+![active2](https://user-images.githubusercontent.com/69615463/123890240-b3285580-d978-11eb-90e2-0158ba8b0cac.png)
+

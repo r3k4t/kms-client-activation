@@ -38,7 +38,7 @@
 
 <h6>Solution</h6>
 
-+ Open Command Prompt(cmd) as administration.
++ Run Command Prompt(cmd) as administration.
 
 <h6>Command Prompt(CMD)Command</h6>
 

@@ -1,4 +1,4 @@
-[![PHP](https://img.shields.io/badge/Microsoft20%Learn-Window20%10-blue.svg)] (https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
+[![PHP](https://img.shields.io/badge/Microsoft20%Learn-Window20%10-blue.svg)]] (https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 [[![OS](https://img.shields.io/badge/Microsoft%20Learn-Window20%11-yellowgreen.svg)]](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
 
 

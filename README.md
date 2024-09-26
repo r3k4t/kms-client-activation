@@ -1,5 +1,5 @@
 [![PHP](https://img.shields.io/badge/Microsoft-KMS-blue.svg)](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys)
-[![OS](https://img.shields.io/badge/Tested%20On-Windows10-yellowgreen.svg)]
+[![OS](https://img.shields.io/badge/Tested%20On-Windows10-yellowgreen.svg)]()
 
 # KMS Client Activation
 

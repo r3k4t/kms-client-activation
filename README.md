@@ -1,4 +1,4 @@
-[![PHP](https://img.shields.io/badge/Microsoft20%Learn-KMS-blue.svg)](https://www.php.net/downloads.php)
+[![PHP](https://img.shields.io/badge/Microsoft-KMS-blue.svg)](https://www.php.net/downloads.php)
 [![OS](https://img.shields.io/badge/Tested%20On-Windows10-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # KMS Client Activation(windows 10)
